@@ -3,4 +3,5 @@ Bu proje, bir MySQL veritabanındaki şehir verilerini yönetmek için geliştir
 
 
 
-<img width="600" height="508" alt="Ekran görüntüsü 2026-01-14 231614" src="https://github.com/user-attachments/assets/a4f04aa7-5d8a-45df-83dc-429da03a90d4" />
+<img width="620" height="542" alt="Ekran görüntüsü 2026-01-14 232457" src="https://github.com/user-attachments/assets/7d95c584-43a3-41e7-9bc1-9e6b20ddb805" />
+

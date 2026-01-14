@@ -3,5 +3,6 @@ Bu proje, bir MySQL veritabanındaki şehir verilerini yönetmek için geliştir
 
 
 
-<img width="676" height="576" alt="image" src="https://github.com/user-attachments/assets/e8f65e8e-4e4e-4009-860f-95398b03ad2f" />
+<img width="669" height="584" alt="image" src="https://github.com/user-attachments/assets/0cbbdf25-15a1-4f78-a821-5d2d0f5698b9" />
+
 
